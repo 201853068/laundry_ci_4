@@ -10,7 +10,7 @@
         <div class="card shadow">
             <div class="card-header bg-primary m-0 p-0 rounded-top" style="min-height: 10px;"></div>
             <div class="card-body d-flex align-items-center">
-                <img src="/assets/img/avatar/avatar-1.png" alt="profile picture" class="img-fluid w-25 rounded-circle mr-4">
+                <img src="/assets/images/avatar.png" alt="profile picture" class="img-fluid w-25 rounded-circle mr-4">
                 <div>
                     <div class="d-flex align-items-center">
                         <h5 class="d-inline-block m-0 mr-2"><?= $user['display_name']; ?></h5>
