@@ -1,10 +1,10 @@
 */config/development
-*/logs/log-*.php
+*/logs/log-*.log
 !*/logs/index.html
 */cache/*
 !*/cache/index.html
 !*/cache/.htaccess
-*/debug_bar/*
+*/debugbar/*
 */session/*
 !*/session/index.html
 
